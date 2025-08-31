@@ -66,7 +66,11 @@ O aplicativo está disponível para todos os públicos. No caso de menores de id
 
 Esta Política de Privacidade pode ser atualizada periodicamente. Em caso de alterações relevantes, informaremos os usuários por meio de aviso no aplicativo.
 
-9. Contato
+9. Exclusão de conta
+
+Caso deseje excluir sua conta criada no aplicativo, envie um e-mail para tfreitas.app@gmail.com, informando o e-mail utilizado para cadastro.
+
+11. Contato
 
 Em caso de dúvidas, sugestões ou solicitações relacionadas à privacidade e ao tratamento de dados pessoais, entre em contato com a Paróquia São Lourenço:
 
